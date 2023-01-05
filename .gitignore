@@ -1,0 +1,7 @@
+# build
+
+*.o
+
+ping
+watchdog
+safe_ping
