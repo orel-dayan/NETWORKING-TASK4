@@ -60,7 +60,7 @@ int main(int argc, char *argv[])
 	int status;
 
 
-	 char data[IP_MAXPACKET] = "This is the ping \n"; // Data to be sent with the ICMP packet.
+	char data[IP_MAXPACKET] = "This is the ping \n"; // Data to be sent with the ICMP packet.
     datalen = (strlen(data) + 1);		// Calculate the length of the data.
 
 	// Check the arguments passed to the program and check IP validity.
