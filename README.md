@@ -1,8 +1,9 @@
-# Networking Ex 4
-
- In this task , we build two programs  that use ICMP protocol.   
- a ping program , which sends a “ping” to a destination and receive a “pong”, and ping program called "safe_ping"
- that implements a timeout functionality .
+# Networking Course Assigment 4
+### For Computer Science B.Sc. Ariel University
+## Description
+ In this task , we wrote two programs  that use ICMP protocol:   
+- A simple ping program , which sends a “ping” to a destination and receive a “pong”.
+- A ping program called "safe_ping" that implements a timeout functionality.
 
 
 ## Requirements
